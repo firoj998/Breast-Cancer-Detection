@@ -9,8 +9,8 @@
 4. Mohd. Firoj
 
 ## Supervised By-
-_Mr. Amir Khan_
-**Technical Trainer**
+_Mr. Amir Khan_  
+**Technical Trainer**  
 **Department of Computer Engineering & Applications**
 
 ___
@@ -24,7 +24,6 @@ are the glands that produce milk,and ducts are pathways that bring the milk from
 to the nipple .cancer can also occur int the fatty tissue or the fibrous connective tissue within
 your breast.
 ___
-___
 ### Reasons for Selecting this topic:
 
  The outlook for women with breast cancer has improved significantly since 1989 as the
@@ -33,13 +32,11 @@ wider use of a mammography screening and to improved treatments. Yet breast canc
 remains a major problem second lung cancer cause of death from cancer for women this
 project aim is to provide and simple technique to predict breast cancer.
 ___
-___
 ### Objectives:
 
  Developing an application using machine learning with python which aim or objective
 should promote a common goal for early detection down-staging Breast cancer detection
 and diagnoses to improve cancer outcomes.
-___
 ___
 ### Motivation:
 
@@ -49,19 +46,16 @@ is prevalent. basically there is lack of motivation. while breast cancer can be 
 early using various mobile app and tools. One should not forget how important it is to
 stay positive and self-motivated no matter what the situation is.
 ___
-___
 ### Feasibility study:
 
  A feasibility study of breast cancer detection with computer aided diagnosis based on
 machine learning. the main functionality of application is to give the patient early detection
 of breast cancer.
 ___
-___
 ### Future Prospects
 
  The project will help to one’s to know early and complete cure about any kind of breast
 cancer detection.
-___
 ___
 ### Methodology:
 
@@ -74,11 +68,9 @@ or regression problems.it uses a technique called the kernel trick to transform 
 and then based on these transformations it finds an optimal boundary between the possible
 outputs.
 ___
-___
 ### Technology:
 
 M.L. using Python
-___
 ___
 ### Requirements:
 
