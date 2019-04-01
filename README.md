@@ -3,9 +3,9 @@
 ## Breast Cancer Detection Using Python
 ## Team Members
 1. Mohd Firoj
-2. Sujeet Kumar Singh
-3. Ayush Gupta  
-4. Manmohan Agrahari 
+2. Manmohan Agrahari
+3. Sujeet Kumar Singh   
+4. Ayush Gupta 
 
 ## Supervised By-
 _Mr. Amir Khan_  
