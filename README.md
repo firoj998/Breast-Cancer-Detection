@@ -2,10 +2,10 @@
 # GLA University Mathura, 2019
 ## Breast Cancer Detection Using Python
 ## Team Members
-1. Manmohan Agrahari
+1. Mohd Firoj
 2. Sujeet Kumar Singh
-3. Ayush Gupta
-4. Mohd. Firoj
+3. Ayush Gupta  
+4. Manmohan Agrahari 
 
 ## Supervised By-
 _Mr. Amir Khan_  
