@@ -1,6 +1,5 @@
 ![University Logo](https://github.com/firoj998/Breast-Cancer-Detection/blob/master/images/uni_logo.png)
 # GLA University Mathura, 2019
-## Mini Project Synopsis
 ## Breast Cancer Detection Using Python
 ## Team Members
 1. Manmohan Agrahari
